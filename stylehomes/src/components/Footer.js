@@ -6,7 +6,7 @@ position: absolute;
 bottom: 0;
 left: 0;
 height: 40px;
-weidth: 100%;
+width: 100%;
 display:flex;
 justify-content: center;
 align-items: center;
